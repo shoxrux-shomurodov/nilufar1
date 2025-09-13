@@ -133,9 +133,7 @@ export default function AnniversaryPage() {
           </div>
         </section>
 
-        <footer className="mt-8 mb-16 text-center text-sm text-slate-600">
-          <p>Bu sayt — Nilufarga bo‘lgan muhabbatimning ramzi.</p>
-        </footer>
+        
       </main>
 
       {showLetter && (
