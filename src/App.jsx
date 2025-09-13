@@ -37,7 +37,7 @@ export default function AnniversaryPage() {
           <div>
             <h1 className="text-xl font-semibold">Nilufar va Men</h1>
             <p className="text-xs text-slate-600">
-              Bizning sevgimiz — 2024-09-06 dan abadiyatga
+              Bizning sevgimiz — 2024-09-21 dan abadiyatga
             </p>
           </div>
         </div>
